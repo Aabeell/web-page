@@ -1,0 +1,29 @@
+body{
+    background-image: url(../LOGIN.jpg);
+    margin-top: 50px;
+}
+
+.Titulo{
+text-align: center;
+font-size: 30px;
+text-shadow: 1px 1px 2px blueviolet;
+}
+.Biografia{
+    text-align: left;
+    text-shadow: 1px 1px 2px white;
+
+    
+}
+.conteinter{
+    text-align: left;
+    border-color: aliceblue;
+     border-radius: 20px;
+     border: 20px;
+}
+.imga{
+    display: flex;
+    text-align: right;
+justify-content: end;
+margin-bottom: 1px;
+
+}
